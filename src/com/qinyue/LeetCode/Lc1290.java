@@ -25,6 +25,7 @@ public class Lc1290 {
             head=head.next;
         }
         return res;
+          
     }
 
 }
